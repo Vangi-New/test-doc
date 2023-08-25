@@ -8,5 +8,8 @@
     "build": "gitbook build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-include-csv": "^1.0.1"
+  }
 }
